@@ -120,5 +120,6 @@
 #### 参与
 欢迎使用 `snakemap path/to/ipa`, 按格式提交信息。
 
-
+#### 介绍文章
+[通过MachO分析App技术栈](https://www.jianshu.com/p/c83d0ab1c3b2)
 
