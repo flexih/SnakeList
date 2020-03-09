@@ -1,5 +1,5 @@
 # SnakeList
-#### iOS中国区Swift/React Native/Flutter/Weex应用现状
+#### iOS中国区免费排行榜前100Swift/React Native/Flutter/Weex应用现状
 
 | App            | Swift | React Native | Flutter | Weex | Version |
 | --------------- | ----- | ------------ | ------- | ---- | ---- |
