@@ -118,8 +118,125 @@
 * 基于 [SnakeKit](https://github.com/flexih/SnakeKit) . 
 
 #### 参与
-欢迎使用 `snakemap path/to/ipa`, 按格式提交信息。
+欢迎使用 `snakemap path/to/ipa`, 按格式提交信息。二进制的名称(xxx)必须和xxx.app的名称相同。
 
 #### 介绍文章
 [通过MachO分析App技术栈](https://www.jianshu.com/p/c83d0ab1c3b2)
 
+#Top 100 Free Apps in USA Swift/React Native/Flutter/Weex Usage
+
+| App            | Swift | React Native | Flutter | Weex |
+| --------------- | ----- | ------------ | ------- | ---- |
+| TikTok |   | ✔ |   |   |
+| PicsArt | ✔ | ✔ |   |   |
+| YouTube |   |   |   |   |
+| Instagram |   | ✔ |   |   |
+| Snapchat |   |   |   |   |
+| Messenger |   |   |   |   |
+| Netflix | ✔ |   |   |   |
+| Facebook |   | ✔ |   |   |
+| Gmail |   | |   | |
+| Amazon|   | ✔ |   |   |
+| Cash App | ✔ |   |   |   |
+| Spotify | ✔ |   |   |   |
+| Hulu | ✔ |   |   |   |
+| Whatsapp | ✔ |   |   |   |
+| Disney+ | ✔ |   |   |   |
+| Google Maps |   |   |   |   |
+| DoorDash | ✔ |   |   |   |
+| Pinterest |   | ✔ |   |   |
+| Venmo | ✔ |   |   |   |
+| YOLO | ✔ |   |   |   |
+| Twitter | ✔ |   |   |   |
+| News Break | ✔ |   |   |   |
+| Uber | ✔ |   |   |   |
+| Google Chrome |   |   |   |   |
+| Google docs |  |   |   |   |
+| Amazon Prime Video | ✔ | ✔ |   |   |
+| Google | ✔ |   |   |   |
+| Paypal | ✔  |   |   |   |
+| SUBWAY® | ✔ |   |   |   |
+| Google Photos | ✔ |   |   |   |
+| Walmart | ✔ | ✔ |   |   |
+| Life360 | ✔ |   |   |   |
+| Google Drive | ✔ | |   | |
+| SoundCloud | ✔ |   |   |   |
+| Arrive | ✔ | ✔ |   |   |
+| Roku | ✔  |   |   |   |
+| Lyft | ✔ |   |   |   |
+| Zoom |   |   |   |   |
+| Pandora | ✔ |   |   |   |
+| Tinder | ✔ |   |   |   |
+| Hopper | ✔ |   |   |   |
+| AliExpress |   |   |   | ✔ |
+| Robinhood | ✔ |   |   |  |
+| Wish | ✔ |   |   |   |
+| SHEIN | ✔ |   |   |  |
+| Target | ✔ | |   | |
+| Google Duo | ✔ |   |   |   |
+| Reddit | ✔ |   |   |   |
+| Discord | ✔ | ✔ |   |   |
+| Nike | ✔ |   |   |   |
+| YouTube Music |   |   |   |   |
+| Credit Karma | ✔ |   |   |   |
+| Photomath | ✔ |   |   |   |
+| Uber Eats | ✔ |   |   |   |
+| Flo Period Tracker & Ovulation | ✔ |   |   |   |
+| OfferUp |   |   |   |   |
+| Poshmark | ✔ |   |   |   |
+| Wayfair | ✔ |   |   |   |
+| eBay | ✔ |   |   |   |
+| Zillow Real Estate & Rentals | ✔ |   |   |   |
+| Indeed Job Search | ✔ |   |   |   |
+| Microsoft Outlook | ✔ | ✔ |   |   |
+| Starbucks | ✔ |   |   |   |
+| Tubi | ✔ |   |   |   |
+| Yelp | ✔ |   |   |   |
+| McDonald's | ✔ |   |   |   |
+| Musi | ✔ |   |   |   |
+| Aribnb | ✔ |   |   |   |
+| Google Slides |  |   |   |   |
+| VPN |   |   |   |   |
+| Grubhub | ✔ |   |   |   |
+| Calm | ✔ |   |   |   |
+| Waze | ✔ |   |   |   |
+| GroupMe | ✔ |   |   |   |
+| Yubo | ✔ |   |   |   |
+| Google Classroom | ✔ |   |   |   |
+| Google Translate | ✔ |   |   |   |
+| Capital One Mobile | ✔ |   |   |   |
+| Audible audiobooks & originals | ✔ |   |   |   |
+| Slide Up | ✔ |   |   |   |
+| Zelle | ✔ |   |   |   |
+| SuperFX |   |   |   |   |
+| Bumble | ✔ |   |   |   |
+| Reflectly |   |   | ✔ |   |
+| Ticketmaster | ✔ |   |   |   |
+| letgo | ✔ |   |   |   |
+| Amazon Music | ✔ |   |   |   |
+| Hoop | ✔ |   |   |   |
+| IRL | ✔ |   |   |   |
+| IRS2Go |   |   |   |   |
+| Fonts | ✔ |   |   |   |
+| TextNow | ✔ |   |   |   |
+| Chick-fil-A | ✔ |   |   |   |
+| Google Sheets |  |   |   |   |
+| Fetch Rewards | ✔ |   |   |   |
+| Chase Mobile | ✔ |   |   |   |
+| Shazam | ✔ |   |   |   |
+| Postmates | ✔ |   |   |   |
+| Duolingo | ✔ |   |   |   |
+| Funimate | ✔ |   |   |   |
+
+#### Summary
+| Apps | Swift | React Native | Flutter | Weex | ObjC | Date       |
+| ---- | ----- | ------------ | ------- | ---- | ---- | ---------- |
+| 100  | 78    | 11           | 1       | 1    | 15   | 2020.03.10 |
+
+1. ObjC which means no use of Swift/React Native/Flutter/Weex
+2. Apps are on iPhone platform
+3. Apps are list on Top 100 Free Apps in USA on March 10, 2020
+
+#### Contribution
+
+Use `snakemap path/to/ipa` to generate output. Binary(xxx) must have the same with xxx.app.
