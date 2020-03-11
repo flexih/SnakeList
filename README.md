@@ -231,7 +231,7 @@
 #### Summary
 | Apps | Swift | React Native | Flutter | Weex | ObjC | Date       |
 | ---- | ----- | ------------ | ------- | ---- | ---- | ---------- |
-| 100  | 78    | 11           | 1       | 1    | 15   | 2020.03.10 |
+| 100  | 78    | 11           | 1       | 1    | 15   | Mar 10, 2020 |
 
 1. ObjC which means no use of Swift/React Native/Flutter/Weex
 2. Apps are on iPhone platform
