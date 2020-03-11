@@ -236,6 +236,7 @@
 1. ObjC which means no use of Swift/React Native/Flutter/Weex
 2. Apps are on iPhone platform
 3. Apps are list on Top 100 Free Apps in USA on March 10, 2020
+4. Gmail and Google Office apps use [j2objc](https://github.com/google/j2objc)
 
 #### Contribution
 
