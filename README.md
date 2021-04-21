@@ -1,4 +1,14 @@
 # SnakeList
+#### 汇总
+| 应用总数            | Swift | React Native | Flutter | Weex | 时间 |
+| --------------- | ----- | ------------ | ------- | ---- | ---- |
+| 100 | 55 | 28 | 30 | 13 | 2021.03.18 |
+
+2. 以上均指iPhone应用
+3. 榜单来自 中国 App Store 免费榜 - iPhone - 2021年3月18日
+4. 此列表仅用于统计
+
+
 #### iOS中国区免费排行榜前100Swift/React Native/Flutter/Weex应用现状
 
 | App            | Swift | React Native | Flutter | Weex | Version |
@@ -103,15 +113,6 @@
 | 大众点评 |   | ✔ |   |   | 10.42.3 |
 | 学习通 |   |   |   |   | 4.8.3 |
 | 铁路12306 |   |   |   |   | 5.2.1 |
-
-#### 汇总
-| 应用总数            | Swift | React Native | Flutter | Weex | 时间 |
-| --------------- | ----- | ------------ | ------- | ---- | ---- |
-| 100 | 55 | 28 | 30 | 13 | 2021.03.18 |
-
-2. 以上均指iPhone应用
-3. 榜单来自 中国 App Store 免费榜 - iPhone - 2021年3月18日
-4. 此列表仅用于统计
 
 #### 方法
 * 基于 [SnakeKit](https://github.com/flexih/SnakeKit) .
