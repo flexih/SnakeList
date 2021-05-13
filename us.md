@@ -1,4 +1,4 @@
-# Top 100 Free Apps in USA Swift/React Native/Flutter/Weex Usage
+# Top 100 Free Apps in USA Swift/React Native/Flutter Usage
 
 | **App**                       | **Swift** | **React Native** | **Flutter** | **Version**   |
 | :---------------------------- | :-------- | :--------------- | :---------- | :------------ |
