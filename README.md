@@ -1,4 +1,4 @@
-## US Top 100 Free Apps (04/2024)
+## Top 100 Free Apps in U.S. (04/2024)
 | App            | Swift | SwiftUI | React Native | Flutter | Version |
 | --------------- | ----- | ----- | ------------ | ------- | ---- |
 | Shopping | ✔ | ✔ | ✔ |   | 2.53.0 |
